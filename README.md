@@ -1,1 +1,6 @@
-# How-team-sports-participation-affects-mental-health-amongst-university-students
+# How team sports participation affects mental health amongst university students
+The client wanted to investigate how team sports participation affects mental health amongst university students. Their request intended to compare individual sport vs. team sport, in a sample of 30 participants. Some of the requested tasks included finding out if there are any differences regarding each type of sport based on the level of distress, finding out if gender plays a role in psychological distress, as well as finding out if sport frequency influences it. 
+
+I have described the sample in counts and percentages at the beginning of the analysis, including all of the possible categories. This was followed by a questions report, which involves the requested descriptives. Each question has a generated table, and a reported percentage of its average score, as per request. I have formulated 3 hypotheses in order to help the client visualize the research question better. All of them were tested statistically, and the used methods included the U Mann Whitney test as well as Chi-Square Test of Independence. Because of the fairly small sample size, the assumption of normality was also tested using the Shapiro-Wilk test
+
+I have also provided statistical interpretation of results and academic reporting, and all of the tables and figures were generated, formatted, named and labeled using APA Style.
